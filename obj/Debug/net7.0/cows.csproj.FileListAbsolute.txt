@@ -1,0 +1,15 @@
+/home/ezraa/cows/bin/Debug/net7.0/cows
+/home/ezraa/cows/bin/Debug/net7.0/cows.deps.json
+/home/ezraa/cows/bin/Debug/net7.0/cows.runtimeconfig.json
+/home/ezraa/cows/bin/Debug/net7.0/cows.dll
+/home/ezraa/cows/bin/Debug/net7.0/cows.pdb
+/home/ezraa/cows/obj/Debug/net7.0/cows.csproj.AssemblyReference.cache
+/home/ezraa/cows/obj/Debug/net7.0/cows.GeneratedMSBuildEditorConfig.editorconfig
+/home/ezraa/cows/obj/Debug/net7.0/cows.AssemblyInfoInputs.cache
+/home/ezraa/cows/obj/Debug/net7.0/cows.AssemblyInfo.cs
+/home/ezraa/cows/obj/Debug/net7.0/cows.csproj.CoreCompileInputs.cache
+/home/ezraa/cows/obj/Debug/net7.0/cows.dll
+/home/ezraa/cows/obj/Debug/net7.0/refint/cows.dll
+/home/ezraa/cows/obj/Debug/net7.0/cows.pdb
+/home/ezraa/cows/obj/Debug/net7.0/cows.genruntimeconfig.cache
+/home/ezraa/cows/obj/Debug/net7.0/ref/cows.dll
